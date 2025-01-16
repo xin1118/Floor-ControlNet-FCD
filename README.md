@@ -1,4 +1,5 @@
 # Floor-ControlNet-FCD 
+![Example Image](./dataset/61EA2D47-F46B-46da-B46E-F72EF76DC920.png)
 ## Abstract
 we propose Floor-Control Net, an innovative method that combines multiple input sources such as Mask Diagrams, Bubble Diagrams, and Design Prompts to improve the accuracy and controllability of generation. Additionally, we have constructed a new customized dataset, the Floor-ControlNet-Dataset (FCD), to support high-accuracy and diverse architectural functional layout generation.Experimental results demonstrate that Floor-Control Net significantly outperforms traditional methods interms of functional layout accuracy, rationality of structural element arrangement, and visual clarity, showcasing broad applicability and scalability.
 ![Example Image](./dataset/61EA2D47-F46B-46da-B46E-F72EF76DC920.png)
