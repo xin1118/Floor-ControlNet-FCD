@@ -7,9 +7,10 @@ We presents a new method for generating architectural functional floor plans cal
 ![Example Image](./dataset/未标题-2.png)
 ## Dataset SAMPLES
 A customized dataset is developed explicitly for Floor-ControlNet, termed as Floor-ControlNet-Dataset (FCD), comprising a rich array of floor plan designs to train the model on complex spatial relationships between functional areas and structural elements. This dataset expands upon the work of earlier works by providing a larger variety of building outlines, functional layout schemas, and well-designed text prompts. The FCD data set encompasses more than 46,000 images, each paired with detailed annotations and conditions that define the spatial relationships and functional requirements of a residential floor plan. 
-![Example Image](./dataset/未标题-2.png)
+![Example Image](./dataset/未标题-3.png)
+
 ## Cite
-*
+* https://paperswithcode.com/dataset/rplan
 * https://github.com/lllyasviel/ControlNet
 * https://github.com/caspervanengelenburg/ssig
 ## P.S
